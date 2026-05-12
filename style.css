@@ -1,0 +1,23 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: #f0fdf4;
+color: #1a3e2e;
+}
+
+nav {
+background-color: #10b981;
+padding: 1rem;
+margin-bottom: 2rem;
+}
+
+a {
+color: white;
+background-color: #059669;
+text-decoration: none;
+padding-bottom: 0.75em;
+padding-top: 0.75em;
+padding-left: 1.5em;
+padding-right: 1.5em;
+margin-right: 0.5em;
+margin-left: 0.5em;
+}
